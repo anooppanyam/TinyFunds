@@ -2,7 +2,8 @@
 
 ## General Information
 Tinyfunds is a gamified microdonation and microvolunteering platform designed with smaller causes and individuals in mind. 
-Users can create worthy causes that they think need additional funding as well as contribute their time or their money to someone else's cause, which increases their user level!
+Users can create worthy causes that they think need additional funding as well as contribute their time or  
+their money to someone else's cause, which increases their user level!
 
 You can navigate to our site in a browser of your choice at tinyfunds.herokuapp.com.
 The site will perform optimally with browsers that support google log-ins.
@@ -14,6 +15,7 @@ Tinyfunds will automatically search for a connected google account that is signe
 Otherwise:
 1. Use the Navbar to travel to the "Account" page, or directly travel to tinyfunds.herokuapp.com/account/.
 2. A Google log in button will be displayed if you not logged in.
+> Note: Even if you are logged in, your user account will not be added to the roster of registered users until you change your account profile name.
 
 #### How to Logout
 To Log out from tinyfunds, you will have to edit your account page and manually log out.  
